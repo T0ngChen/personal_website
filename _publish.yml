@@ -1,4 +1,4 @@
 - source: project
   netlify:
-    - id: ca0df4ce-d000-4119-b28b-2f5bfe54cacd
+    - id: 03edae06-8e45-4966-ba32-f85dd4caef06
       url: 'https://tongchen.netlify.app'
