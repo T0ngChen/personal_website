@@ -1,0 +1,42 @@
+[
+  {
+    "listing": "/talks/index.html",
+    "items": [
+      "/talks/stab-UIC.html",
+      "/talks/causal ML-Vicbiostat.html",
+      "/talks/causal ML-EuroCIM.html",
+      "/talks/causal ML-aea.html",
+      "/talks/optimal-sampling-statNZ - poster.html",
+      "/talks/optimal-sampling-statNZ.html",
+      "/talks/raking - nzsa.html",
+      "/talks/optimal-design-raking.html",
+      "/talks/multiwave-nzsa.html",
+      "/talks/multiwave-uoa.html",
+      "/talks/largeqf-nzsa.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/radioactivity.html"
+    ]
+  },
+  {
+    "listing": "/publications/index.html",
+    "items": [
+      "/publications/medRCT.html",
+      "/publications/IMIH-ohrqol.html",
+      "/publications/RCT_protocol_hao.html",
+      "/publications/automate_vs_VE.html",
+      "/publications/IMIH.html",
+      "/publications/pcori_multiwave - obese.html",
+      "/publications/Iagree.html",
+      "/publications/pcori_multiwave.html",
+      "/publications/thesis.html",
+      "/publications/optimal_design_based.html",
+      "/publications/choosing_good_subsample.html",
+      "/publications/multiwave.html",
+      "/publications/large_quadratic.html"
+    ]
+  }
+]

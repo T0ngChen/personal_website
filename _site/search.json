@@ -1,0 +1,275 @@
+[
+  {
+    "objectID": "publications/IMIH-ohrqol.html",
+    "href": "publications/IMIH-ohrqol.html",
+    "title": "Causal effect of molar incisor hypomineralisation on oral health-related quality-of-life of Australian children 7 to 16 years-of-age",
+    "section": "",
+    "text": "Purpose: Molar incisor hypomineralisation (MIH) is a qualitative defect of enamel characterised by demarcated opacities. Aesthetic and functional sequelae of MIH may manifest as reduced oral health related quality of life (OHRQoL). This study aims to investigate the impact of the presence and severity of MIH on children’s OHRQoL.\nMethods: This cross-sectional study recruited children aged 7 to 16 years-of-age attending specialist paediatric dental clinics in Melbourne, Australia. Clinical examination utilised the modified European Academy of Paediatric Dentistry index to quantify the presence and severity of MIH. OHRQoL data was collected via the Child Perception Questionnaire, Parent-Caregiver Perception Questionnaire and Family Impact Statement. Causal analysis used quantile regression and included poor medical health as a confounding variable. Sensitivity analysis used the same model and different strata of MIH lesion location and severity.\nResults: 131 participants with complete self-reported OHRQoL data were included in the causal analysis. The estimated average causal effect after adjusting for poor medical health showed the estimated difference in medians of child-reported OHRQoL was 6 (CI = 2.62, 12.25, p = 0.02) in the MIH group compared to the unaffected group. The estimated difference in medians of self-reported OHRQoL after adjusting for poor medical health was 7 (CI = 1.87, 11.99, p = 0.01) for severe MIH group and -1 (CI = -5.16, 3.62, p = 0.63) for the mild group compared to those unaffected. The estimated difference in medians of self-reported OHRQoL after adjusting for poor medical health was 5.16 (CI = -2.42, 10.99, p = 0.15) for participants with MIH-affected incisors compared to the rest of the cohort.\nConclusions: MIH impacts children’s OHRQoL as reported by self and parent/caregiver."
+  },
+  {
+    "objectID": "publications/thesis.html",
+    "href": "publications/thesis.html",
+    "title": "Optimal sampling for design-based estimators of regression models in two-phase designs",
+    "section": "",
+    "text": "The two-phase design collects additional information on a subsample which is selected from the study cohort. It is a cost-effective sampling method when the covariates of interest are expensive to measure for every individual in the cohort. With considerate choices of stratification and phase-two sampling strategies, a two-phase design will be more efficient than simple random sampling. At the design stage, it is desirable to conduct the sampling with the optimal design which will end up with the most efficient estimations. We develop the optimal design for analysis via the IPW estimator. In order to approximate the optimal design, we propose to use a multiwave sampling framework and incorporate the whole cohort information. We show the design efficiency can be further improved using the multiwave sampling with informative priors. Generalized raking is a more efficient class of design-based estimators. We derive the optimal design for analysis via generalized raking estimators. We then compare it with the optimal design for analysis via the IPW estimator and other two-phase designs in measurement-error settings. We show the optimal design for analysis via the IPW estimator is not optimal for the generalized raking estimation but typically gives nearoptimal efficiency. It has previously been shown that semiparametric efficiency under two-phase sampling is not robust to contiguous model misspecification, if the target of inference is defined by a hypothetical analysis of complete data. In two-phase studies, the optimal design for the efficient estimator is often very different from that for design-based estimators. We show this design optimality can also be sensitive to contiguous model misspecification."
+  },
+  {
+    "objectID": "publications/pcori_multiwave - obese.html",
+    "href": "publications/pcori_multiwave - obese.html",
+    "title": "Associations Between Gestational Weight Gain, Gestational Diabetes, and Childhood Obesity Incidence",
+    "section": "",
+    "text": "Excessive maternal gestational weight gain (GWG) is strongly correlated with childhood obesity, yet how excess maternal weight gain and gestational diabetes mellitus (GDM) interact to affect early childhood obesity is poorly understood. The purpose of this study was to investigate whether overall and trimester-specific maternal GWG and GDM were associated with obesity in offspring by age 6 years."
+  },
+  {
+    "objectID": "publications/multiwave.html",
+    "href": "publications/multiwave.html",
+    "title": "Optimal multiwave sampling for regression modeling in two‐phase designs",
+    "section": "",
+    "text": "Two-phase designs involve measuring extra variables on a subset of the cohort where some variables are already measured. The goal of two-phase designs is to choose a subsample of individuals from the cohort and analyse that subsample efficiently. It is of interest to obtain an optimal design that gives the most efficient estimates of regression parameters. In this article, we propose a multiwave sampling design to approximate the optimal design for design-based estimators. Influence functions are used to compute the optimal sampling allocations. We propose to use informative priors on regression parameters to derive the wave-1 sampling probabilities because any prespecified sampling probabilities may be far from optimal and decrease the design efficiency. The posterior distributions of the regression parameters derived from the current wave will then be used as priors for the next wave. Generalized raking is used in the final statistical analysis. We show that a two-wave sampling with reasonable informative priors will end up with a highly efficient estimation for the parameter of interest and be close to the underlying optimal design."
+  },
+  {
+    "objectID": "publications/choosing_good_subsample.html",
+    "href": "publications/choosing_good_subsample.html",
+    "title": "Choosing good subsamples for regression modelling",
+    "section": "",
+    "text": "A common problem in health research is that we have a large database with many variables measured on a large number of individuals. We are interested in measuring additional variables on a subsample; these measurements may be newly available, or expensive, or simply not considered when the data were first collected. The intended use for the new measurements is to fit a regression model generalisable to the whole cohort (and to its source population). This is a two-phase sampling problem; it differs from some other two-phase sampling problems in the richness of the phase I data and in the goal of regression modelling. In particular, an important special case is measurement-error models, where a variable strongly correlated with the phase II measurements is available at phase I. We will explain how influence functions have been useful as a unifying concept for extending classical results to this setting, and describe the steps from designing for a simple weighted estimator at known parameter values through adaptive multiwave designs and the use of prior information. We will conclude with some comments on the information gap between design-based and model-based estimators in this setting."
+  },
+  {
+    "objectID": "publications/RCT_protocol_hao.html",
+    "href": "publications/RCT_protocol_hao.html",
+    "title": "The effect of porcine collagen matrix versus rotated pedicle palatal connective tissue flap on the soft tissue closure after the immediate posterior implantation: study protocol for a randomized controlled trial",
+    "section": "",
+    "text": "Soft tissue defect is commonly seen in immediate maxillary posterior implantation because of tooth extraction wound and tension from bone graft. Bone graft materials exposure has significant detrimental influence on bone augmentation. However, previous studies lack sufficient evidence to guide wound closure after immediate posterior implantation. This study aims to use 3D integration technology to evaluate the effect of porcine collagen matrix versus rotated pedicle palatal connective tissue flap (RPPCTF) on the soft tissue closure after the immediate maxillary posterior implantation."
+  },
+  {
+    "objectID": "publications/IMIH.html",
+    "href": "publications/IMIH.html",
+    "title": "The impact of molar incisor hypomineralisation on children and adolescents: A narrative review",
+    "section": "",
+    "text": "Molar incisor hypomineralisation (MIH) is a qualitative developmental enamel defect with a prevalence of 13% worldwide. This review aims to outline the current evidence regarding the impact of MIH on children’s oral health and, more broadly, their day-to-day activities. MIH is associated with negative sequelae, including hypersensitivity, post-eruptive breakdown, the rapid development of carious lesions and poor aesthetics. Other concerns pertain to the clinical management of MIH and include difficulty in achieving local anaesthesia, increased dental fear and anxiety (DFA) and increased behaviour management problems. Oral health-related quality of life (OHRQoL) is the most standardised measure of patient impact; however, no instruments have been validated for use in MIH populations. The few existing observational studies investigating the impact of MIH on OHRQoL in children have produced conflicting results. Interventions to alleviate hypersensitivity and improve aesthetics had a positive impact on the OHRQoL of MIH-affected children. Multiple methodological issues make it difficult to measure the impact of MIH, including heterogeneity in the MIH severity classification, an overlap in the indices used to diagnose dental caries and MIH as well as the subjectivity of outcome measures for hypersensitivity and DFA."
+  },
+  {
+    "objectID": "talks/stab-UIC.html",
+    "href": "talks/stab-UIC.html",
+    "title": "Generalised raking and stabilised weights for regression modelling in two-phase samples",
+    "section": "",
+    "text": "Abstract\nIn regression models fitted to data from complex survey designs, sampling weights often incorporate non-essential variation, inflating variance estimates. Stabilised weights mitigate this issue by adjusting sampling weights to account for variation explained by covariates. We evaluate the performance of optimal stabilised weights and propose combining the stabilised weights estimator with generalised raking, a class of efficient design-based estimators. This combination improves efficiency by reducing unnecessary weight variation and leveraging information from auxiliary variables. We show this combination can be implemented using the standard statistical package that handles two-phase samples and generalised raking. Simulation studies demonstrate that the proposed estimator enhances precision under realistic two-phase designs, though efficiency gains may be limited in highly informative designs."
+  },
+  {
+    "objectID": "talks/optimal-sampling-statNZ.html",
+    "href": "talks/optimal-sampling-statNZ.html",
+    "title": "Choosing good subsamples for regression modelling",
+    "section": "",
+    "text": "Seminar\n\nAbstract\nA common problem in health research is that we have a large database with many variables measured on a large number of individuals. We are interested in measuring additional variables on a subsample; these measurements may be newly available, or expensive, or simply not considered when the data were first collected. The intended use for the new measurements is to fit a regression model generalisable to the whole cohort (and to its source population). This is a two-phase sampling problem; it differs from some other two-phase sampling problems in the richness of the phase I data and in the goal of regression modelling. In particular, an important special case is measurement-error models, where a variable strongly correlated with the phase II measurements is available at phase I. We will explain how influence functions have been useful as a unifying concept for extending classical results to this setting, and describe the steps from designing for a simple weighted estimator at known parameter values through adaptive multiwave designs and the use of prior information. We will conclude with some comments on the information gap between design-based and model-based estimators in this setting."
+  },
+  {
+    "objectID": "talks/optimal-design-raking.html",
+    "href": "talks/optimal-design-raking.html",
+    "title": "Optimal design for generalized raking estimators",
+    "section": "",
+    "text": "Seminar\n\nAbstract\nTwo-phase designs measure variables of interest on a subset of cohort where the outcome and covariates are readily available or cheap to collect for the entire cohort. Since the variables of interest are often cost-prohibitive, it is of interest to find an optimal design which will include more informative individuals in the final sample. However, the optimal design will be different for different estimators. In this talk, I will present the optimal design for generalized raking estimators."
+  },
+  {
+    "objectID": "talks/multiwave-nzsa.html",
+    "href": "talks/multiwave-nzsa.html",
+    "title": "Optimal multi-wave sampling for regression modelling",
+    "section": "",
+    "text": "The 2019 NZSA Conference\n\nAbstract\nTwo-phase designs involve measuring extra variables on a subset of the cohort where some variables are already measured. The goal of two-phase designs is to choose a subsample of individuals from the cohort and analyse that subsample efficiently. It is of interest to obtain an optimal design that gives the most efficient estimates of regression parameters. In this article, we propose a multiwave sampling design to approximate the optimal design for design-based estimators. Influence functions are used to compute the optimal sampling allocations. We propose to use informative priors on regression parameters to derive the wave-1 sampling probabilities because any prespecified sampling probabilities may be far from optimal and decrease the design efficiency. The posterior distributions of the regression parameters derived from the current wave will then be used as priors for the next wave. Generalized raking is used in the final statistical analysis. We show that a two-wave sampling with reasonable informative priors will end up with a highly efficient estimation for the parameter of interest and be close to the underlying optimal design."
+  },
+  {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Seminars I’ve given",
+    "section": "",
+    "text": "Seminars I’ve given\n\n\n\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nVenue\n\n\n\n\n\n\n20 Mar 2025\n\n\nGeneralised raking and stabilised weights for regression modelling in two-phase samples\n\n\nStatistics and Data Science Seminar, University of Illinois Chicago (Online)\n\n\n\n\n13 Jun 2024\n\n\nCausal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial\n\n\nMelbourne, Australia\n\n\n\n\n16 Apr 2024\n\n\nCausal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial\n\n\nCopenhagen, Denmark\n\n\n\n\n17 Oct 2023\n\n\nCausal machine learning for estimating interventional effects mapped to a target trial\n\n\nVIC, Australia\n\n\n\n\n01 Dec 2022\n\n\nChoosing good subsamples for regression models\n\n\nVIC, Australia\n\n\n\n\n10 May 2022\n\n\nChoosing good subsamples for regression modelling\n\n\nOnline, Statistics New Zealand\n\n\n\n\n24 Nov 2020\n\n\nOptimal sampling of generalized raking estimators for regression modelling in two-phase designs\n\n\nUniversity of Auckland, New Zealand\n\n\n\n\n19 Oct 2020\n\n\nOptimal design for generalized raking estimators\n\n\nUniversity of Auckland, New Zealand\n\n\n\n\n26 Nov 2019\n\n\nOptimal multi-wave sampling for regression modelling\n\n\nUniversity of Otago, New Zealand\n\n\n\n\n29 May 2019\n\n\nOptimal multi-wave sampling for regression modelling\n\n\nUniversity of Auckland, New Zealand\n\n\n\n\n29 Nov 2018\n\n\nApproximations to the distribution of a large quadratic form in normal variables\n\n\nMassey University, New Zealand\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/causal ML-Vicbiostat.html",
+    "href": "talks/causal ML-Vicbiostat.html",
+    "title": "Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial",
+    "section": "",
+    "text": "The Victorian Centre for Biostatistics (ViCBiostat) Seminar\n\nAbstract"
+  },
+  {
+    "objectID": "software/index.html",
+    "href": "software/index.html",
+    "title": "Softwares I’ve coauthored",
+    "section": "",
+    "text": "Softwares I’ve coauthored\n\n  iNZight Lite: A statistics software for students and learners to explore, visualise, and analyse data.\n\n\n\n medRCT: Causal mediation analysis estimating interventional effects mapped to a target trial."
+  },
+  {
+    "objectID": "blog/radioactivity.html",
+    "href": "blog/radioactivity.html",
+    "title": "My xray experiments",
+    "section": "",
+    "text": "I’ve been playing with uranium rays …"
+  },
+  {
+    "objectID": "about/index.html",
+    "href": "about/index.html",
+    "title": "About",
+    "section": "",
+    "text": "From September 2022: Biostatistician, Clinical Epidemiology and Biostatistics Unit (CEBU), Murdoch Children’s Research Institute\nHonorary Research Fellow, University of Melbourne\n\n2021–2022: Statistical Consultant, Statistical Consulting Centre, University of Auckland\n\n2016–2021: Teaching / Research Assistant, University of Auckland"
+  },
+  {
+    "objectID": "about/index.html#work-experience",
+    "href": "about/index.html#work-experience",
+    "title": "About",
+    "section": "",
+    "text": "From September 2022: Biostatistician, Clinical Epidemiology and Biostatistics Unit (CEBU), Murdoch Children’s Research Institute\nHonorary Research Fellow, University of Melbourne\n\n2021–2022: Statistical Consultant, Statistical Consulting Centre, University of Auckland\n\n2016–2021: Teaching / Research Assistant, University of Auckland"
+  },
+  {
+    "objectID": "about/index.html#education",
+    "href": "about/index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nPhD in Statistics, University of Auckland, Auckland, New Zealand, 2022\nMSc in Statistics, University of Auckland, Auckland, New Zealand, 2017\n\nwith First Class Honour\n\nPgDip in Statistics, University of Auckland, Auckland, New Zealand, 2016\n\nwith Distinction\n\nBSc.(Hons) in Statistics, Northwestern Polytechnical University, Xi’an, China, 2015"
+  },
+  {
+    "objectID": "about/index.html#research-interests",
+    "href": "about/index.html#research-interests",
+    "title": "About",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nCausal machine learning and causal mediation analysis\nApplied causal inference\nDesign and analysis of complex surveys\nStatistical computing: tools for programming, data analysis and interactive teaching."
+  },
+  {
+    "objectID": "about/index.html#teaching",
+    "href": "about/index.html#teaching",
+    "title": "About",
+    "section": "Teaching",
+    "text": "Teaching\n\nGuest Lecturer: Introduction to Biostatistics in the Research Methods course for the Doctor of Clinical Dentistry program, Melbourne Dental School (2024, 2025)\n\nViCBiostat Summer School: Advanced Causal Inference: Target Trial Emulation with Time-Varying Treatments – Teaching Team (2025)\nShort Course: Observational Studies: Modern Concepts and Analytic Methods – Teaching Team (2023, 2024), Course Coordinator and Teaching Team (from 2025). This course offers twice per year\nShort Course: Introduction to R – Lecturer (2023), Course Coordinator and Lecturer (2024)\n\nViCBiostat Summer School: Causal Mediation Analysis – Teaching Team (2024)\n\nViCBiostat Summer School: Causal Analysis Methods: Beyond Standard Regression – Teaching Team (2023)\n\nShort Course at the Australasian Epidemiological Association Annual Meeting: Causal Analysis Methods: Beyond Standard Regression – Teaching Team (2023)\n\nTeaching Assistant, University of Auckland – Courses: STATS 108: Introduction to Statistics, STATS 201: Data Analysis, STATS 240: Design and Structured Data, STATS 330: Statistical Modelling, STATS 380: Statistical Computing (2016-2021)"
+  },
+  {
+    "objectID": "about/index.html#awards",
+    "href": "about/index.html#awards",
+    "title": "About",
+    "section": "Awards",
+    "text": "Awards\n\n\n\nBest Paper Award in Biometrics 2023\n\n\nInternational Biometric Society\n\n\n\nMultiwave validation sampling for error-prone electronic health records\nThe award is given by the IBS biennially to one Biometrics paper from each of the previous two years identified by the co-editors as being of the highest quality and importance\n\nUniversity of Auckland Doctoral Scholarship 2018 - 2022\nUniversity of Auckland Summer Research Scholarship 2017"
+  },
+  {
+    "objectID": "about/index.html#service",
+    "href": "about/index.html#service",
+    "title": "About",
+    "section": "Service",
+    "text": "Service\n\nReviewer, Statistics in Medicine, Statistical Methods in Medical Research, Epidemiology, International Journal of Paediatric Dentistry, Paediatric and Perinatal Epidemiology\nCoordinator, The Victorian Centre for Biostatistics (ViCBiostat) Seminar (2025 -)\nCoordinator, Data Science Journal Club at Murdoch Children’s Research Institute (2023-2024)"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "My blog",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nMy xray experiments\n\n\n\n\n\n\nphysics\n\n\nchemistry\n\n\nradiation\n\n\n\n\n\n\n\n\n\n7 September 1902\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "publications/index.html",
+    "href": "publications/index.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Publications\n\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n  \n    \n      \n        Tong Chen, S. Ghazaleh Dashti, Margarita Moreno-Betancur\n        (2025)\n        medRCT: Causal mediation analysis estimating interventional effects mapped to a target trial in R.\n        \n          The Journal of Open Source Software, Submitted.\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Stephanie Shields, Tong Chen, Felicity Crombie, David J. Manton, Mihiri Silva\n        (2025)\n        Causal effect of molar incisor hypomineralisation on oral health-related quality-of-life of Australian children 7 to 16 years-of-age.\n        \n          European Archives of Paediatric Dentistry, Under Review.\n        \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Shuobo Fang, Zhengjie Dong, Wei Zhang, Tong Chen, Wanqi Lv, Chenyang Zhang, Si Chen, Keyi Hao\n        (2025)\n        The effect of porcine collagen matrix versus rotated pedicle palatal connective tissue flap on the soft tissue closure after the immediate posterior implantation: study protocol for a randomized controlled trial.\n        \n          BMJ Open.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Bree Jones, Tong Chen, Stavroula Michou, Nicky Kilpatrick, David P. Burgner, Christoph Vannahme, Mihiri Silva\n        (2024)\n        Diagnostic agreement between visual examination and an automated scanner system with fluorescence for detecting and classifying occlusal carious lesions in primary teeth.\n        \n          Journal of Dentistry, 149.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Stephanie Shields, Tong Chen, Felicity Crombie, David J. Manton, Mihiri Silva\n        (2024)\n        The impact of molar incisor hypomineralisation on children and adolescents: A narrative review.\n        \n          Healthcare, 12, 370.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Nadia Markie Sneed, William Heerman, Pamela Shaw, Kyunghee Han, Tong Chen, Aihua Bian, Shannon Pugh, Stephany N Duda, Thomas Lumley, William J Heerman, Bryan E Shepherd\n        (2024)\n        Associations Between Gestational Weight Gain, Gestational Diabetes, and Childhood Obesity Incidence.\n        \n          Maternal and Child Health Journal 28, 372–381.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Bree Jones, Stavroula Michou, Tong Chen, Margarita Moreno-Betancur, Nicky Kilpatrick, David P. Burgner, Christoph Vannahme, Mihiri Silva\n        (2023)\n        Caries Detection in Primary Teeth Using Intraoral Scanners Featuring Fluorescence: Protocol for a Diagnostic Agreement Study.\n        \n          JMIR Research Protocols, 12:e51578.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Bryan E Shepherd, Kyunghee Han, Tong Chen, Aihua Bian, Shannon Pugh, Stephany N Duda, Thomas Lumley, William J Heerman, Pamela A Shaw\n        (2023)\n        Multiwave validation sampling for error-prone electronic health records.\n        \n          Biometrics, 79, 2649–2663.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Tong Chen\n        (2022)\n        Optimal sampling for design-based estimators of regression models in two-phase designs.\n        \n          PhD Thesis-University of Auckland.\n        \n      \n      \n      \n      \n      \n      \n      THESIS\n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Tong Chen, Thomas Lumley\n        (2022)\n        Optimal sampling for design‐based estimators of regression models.\n        \n          Statistics in Medicine, 41, 1482-1497.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Thomas Lumley, Tong Chen\n        (2021)\n        Choosing good subsamples for regression modelling.\n        \n          Paper presented at 11th International Francophone Conference on Surveys.\n        \n      \n      \n      \n      \n      \n      arXiv\n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Tong Chen, Thomas Lumley\n        (2020)\n        Optimal multiwave sampling for regression modeling in two‐phase designs.\n        \n          Statistics in Medicine, 39, 4912-4921.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n    \n      \n        Tong Chen, Thomas Lumley\n        (2019)\n        Numerical evaluation of methods approximating the distribution of a large quadratic form in normal variables.\n        \n          Computational Statistics & Data Analysis, 139, 75-81.\n        \n      \n      \n      DOI\n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n      \n    \n  \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "talks/causal ML-EuroCIM.html",
+    "href": "talks/causal ML-EuroCIM.html",
+    "title": "Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial",
+    "section": "",
+    "text": "European Causal Inference Meeting\n\nAbstract\nCohort studies frequently collect biological specimens like blood, urine, and faeces to obtain high-dimensional ‘omics’ data and other biomarker information. These data can be key to understanding the biological pathways mediating the effects of exposures on disease risk. The recent interventional effect approach mapped to a target trial offers a promising avenue to address these problems. However, current implementations of this approach rely on parametric methods that may not be valid for high-dimensional problems in which there can be many variables (multiple biomarkers) and complex relationships but a small sample size. We employed the efficient influence function within a nonparametric model to derive causal machine learning estimators for interventional effects from which we developed a targeted minimum loss-based estimator and a one-step estimator. The nuisance parameters of these estimators can be modelled using machine learning to tackle high-dimensional problems, with the use of cross validation enabling valid inference. We showed these estimators are root-n consistent, efficient, and multiply robust. We examined the performance of these methods in simulation studies and applied them to investigate the longitudinal relationship between body mass index (BMI) and blood pressure in the Longitudinal Study of Australian Children, with potential mediation by the NMR metabolomic profile (75 metabolites)."
+  },
+  {
+    "objectID": "talks/causal ML-aea.html",
+    "href": "talks/causal ML-aea.html",
+    "title": "Causal machine learning for estimating interventional effects mapped to a target trial",
+    "section": "",
+    "text": "Australasian Epidemiological Association 2023 Annual Scientific Meeting\n\nAbstract\nCohort studies frequently collect biological specimens like blood, urine, and faeces to obtain high-dimensional ‘omics’ data and other biomarker information. These data may be key to understanding the biological pathways mediating the effects of exposures on disease risk. The recent interventional effect approach for mediation analysis offers a promising avenue to address these problems. However, current implementations of this approach rely on parametric methods that may not be valid for these high-dimensional problems in which there can be many variables (multiple biomarkers) and complex relationships but a small sample size. We employed the efficient influence function within a nonparametric model to describe doubly robust estimators for interventional effects from which we developed targeted minimum loss-based and double machine learning estimators. The nuisance parameters of these estimators can be modelled using machine learning to tackle high-dimensional problems, with the use of sample splitting (i.e. discovery and validation sets) enabling valid inference. We examined the performance of these methods in simulation studies and applied them to investigate the longitudinal relationship between body mass index (BMI) and blood pressure (BP) in the Longitudinal Study of Australian Children, with potential mediation by the NMR metabolomic profile (228 metabolites). The proposed methods enable estimation of the indirect effect of an exposure on an outcome through a joint set of high-dimensional mediators in observational studies."
+  },
+  {
+    "objectID": "talks/largeqf-nzsa.html",
+    "href": "talks/largeqf-nzsa.html",
+    "title": "Approximations to the distribution of a large quadratic form in normal variables",
+    "section": "",
+    "text": "The 2018 Joint NZSA/ORSNZ Conference\n\nAbstract\nQuadratic forms of Gaussian variables occur in a wide range of applications in statistics. They can be expressed as a linear combination of chi-squareds. The coefficients in the linear combination are the eigenvalues \\lambda_{1},...,\\lambda_n of \\Sigma A, where A is the matrix representing the quadratic form and \\Sigma is the covariance matrix of the Gaussians. The previous literature mostly deals with approximations for small quadratic forms (n&lt;10) and moderate p-values (p&gt;10^{-2}). Motivated by genetic applications, moderate to large quadratic forms (300&lt;n&lt;12,000) and small to very small p-values (p&lt;10^{-4}) are studied. Existing methods are compared under these settings and a leading-eigenvalue approximation, which only takes the largest k eigenvalues, is shown to have the computational advantage without any important loss in accuracy. For time complexity, a leading-eigenvalue approximation reduces the computational complexity from O(n^3) to O(n^2k) on extracting eigenvalues and avoids speed problems with computing the sum of n terms. For accuracy, the existing methods have some limits on calculating small p-values under large quadratic forms. Moment methods are inaccurate for very small p-values, and Farebrother’s method is not usable if the minimum eigenvalue is much smaller than others. Davies’s method is usable for p-values down to machine epsilon. The saddlepoint approximation is proved to have bounded relative error for any A and \\Sigma in the extreme right tail, so it is usable for arbitrarily small p-values."
+  },
+  {
+    "objectID": "talks/multiwave-uoa.html",
+    "href": "talks/multiwave-uoa.html",
+    "title": "Optimal multi-wave sampling for regression modelling",
+    "section": "",
+    "text": "Abstract\nTwo-phase designs involve measuring extra variables on a subset of cohort some variables are measured. The goal is to choose a subsample of people from the sampled sub-cohort and analyse that subsample efficiently. There is a large body of literature on statistical inference for two-phase designs. However, compared with estimation methods, there is much less attention focused on the design aspect. It is desirable to obtain an optimal design which ends up with the most efficient estimation. In this talk, I will firstly introduce two-phase sampling and corresponding estimation methods. Thereafter, I will present a multi-wave sampling strategy and what we currently know about optimal design. I will focus on design-based estimation without making strong assumptions about the model."
+  },
+  {
+    "objectID": "talks/optimal-sampling-statNZ - poster.html",
+    "href": "talks/optimal-sampling-statNZ - poster.html",
+    "title": "Choosing good subsamples for regression models",
+    "section": "",
+    "text": "Poster presented at Australasian Applied Statistics Conference 2022\n\nAbstract\nA common problem in health research is that we have a large database with many variables measured on a large number of individuals. We are interested in measuring additional variables on a subsample; these measurements may be newly available, or expensive, or simply not considered when the data were first collected. The intended use for the new measurements is to fit a regression model generalisable to the whole cohort (and to its source population). This is a two-phase sampling problem; it differs from some other two-phase sampling problems in the richness of the phase I data and in the goal of regression modelling. In particular, an important special case is measurement-error models, where a variable strongly correlated with the phase II measurements is available at phase I. We will explain how influence functions have been useful as a unifying concept for extending classical results to this setting, and describe the steps from designing for a simple weighted estimator at known parameter values through adaptive multiwave designs and the use of prior information. We will conclude with some comments on the information gap between design-based and model-based estimators in this setting.\nThe poster can be found here"
+  },
+  {
+    "objectID": "talks/raking - nzsa.html",
+    "href": "talks/raking - nzsa.html",
+    "title": "Optimal sampling of generalized raking estimators for regression modelling in two-phase designs",
+    "section": "",
+    "text": "The 2020 NZSA Conference\n\nAbstract\nTwo-phase designs measure variables of interest on a subcohort where the outcome and covariates are readily available or cheap to collect on all individuals in the cohort. Given limited resource availability, it is of interest to find an optimal design that includes more informative individuals in the final sample. We explore the optimal designs and efficiencies for analyses by design-based estimators. Generalized raking is an efficient class of design-based estimators, and they improve on the inverse-probability weighted (IPW) estimator by adjusting weights based on the auxiliary information. We derive a closed-form solution of the optimal design for estimating regression coefficients from generalized raking estimators. We compare it with the optimal design for analysis via the IPW estimator and other two-phase designs in measurement-error settings. We consider general two-phase designs where the outcome variable and variables of interest can be continuous or discrete. Our results show that the optimal designs for analyses by the two classes of design-based estimators can be very different. The optimal design for analysis via the IPW estimator is optimal for IPW estimation and typically gives near-optimal efficiency for generalized raking estimation, though we show there is potential improvement in some settings."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Advanced Chemistry",
+    "section": "",
+    "text": "Advanced Chemistry\nBlah blah\n\n\n\nAdvanced Physics\nDon’t forget to bring your lab coats"
+  },
+  {
+    "objectID": "publications/Iagree.html",
+    "href": "publications/Iagree.html",
+    "title": "Caries Detection in Primary Teeth Using Intraoral Scanners Featuring Fluorescence: Protocol for a Diagnostic Agreement Study",
+    "section": "",
+    "text": "Background: Digital methods that enable early caries identification can potentially streamline data collection in research and optimize dental examinations for young children. Intraoral Scanners are devices used for creating 3D models of teeth in dentistry and are being rapidly adopted into clinical workflows. Integrating fluorescence technology into scanner hardware can support early caries detection. However, the performance of caries detection methods using 3D models featuring color and fluorescence in primary teeth is unknown.\nObjective: This study aims to assess the diagnostic agreement between visual examination, on-screen assessment of 3D models in approximate natural colors with and without fluorescence and application of an automated caries scoring system for caries detection in primary teeth.\nMethods: The study sample will be drawn from eligible participants in a randomized controlled trial at the Royal Children’s Hospital, Melbourne, where a dental assessment was conducted, including visual examination using the International Caries Detection and Assessment System (ICDAS) and intraoral scan using the TRIOS 4 (3Shape TRIOS A/S, Copenhagen, Denmark). Participant clinical records will be collected, and all records meeting eligibility criteria will be subject to an on-screen assessment of 3D models by four dental practitioners. First, all primary tooth surfaces will be examined for caries based on 3D geometry and color, using a merged ICDAS index. Second, the on-screen assessment of 3D models will include fluorescence, where caries will be classified using a merged ICDAS index that has been modified to incorporate fluorescence criteria. After four weeks all examiners will repeat the on-screen assessment for all 3D models. Finally, an automated caries scoring system will be used to classify caries on primary occlusal surfaces. The agreement in the total number of caries detected per person between methods will be assessed using a Bland-Altman analysis and intraclass correlation coefficients . At a tooth surface level agreement between methods will be estimated using multilevel models to account for the clustering of dental data.\nResults: Automated caries scoring of 3D models was completed as of October 2023, with publication of results expected by July 2024. On-screen assessment has commenced, with expected completion of scoring and data analysis by March 2024. Results will be disseminated by the end of 2024.\nConclusion: The study outcomes may inform new practices that utilize digital models to facilitate dental assessments. Novel approaches that enable remote dental examination without compromising the accuracy of visual examination have wide application in the research environment, clinical practice and for the provision of teledentistry."
+  },
+  {
+    "objectID": "publications/automate_vs_VE.html",
+    "href": "publications/automate_vs_VE.html",
+    "title": "Diagnostic agreement between visual examination and an automated scanner system with fluorescence for detecting and classifying occlusal carious lesions in primary teeth",
+    "section": "",
+    "text": "Objective: To determine the diagnostic agreement between visual examination using the International Caries Detection and Assessment System (ICDAS) and on-screen assessment of 3D models with and without fluorescence for caries detection in primary teeth.\nMethods: Children participating in a clinical trial (N=216, average age 5.6 years) underwent visual examination using ICDAS and intraoral scanning using the TRIOS 4 scanner (3Shape TRIOS A/S Denmark). Blinded to the clinical data, four trained and calibrated raters independently performed on-screen assessments for each child’s 3D models using a modified ICDAS. The 3D models were first examined with color, and caries presence and severity were recorded for each tooth surface. This was immediately followed by re-examination with the addition of fluorescence texture. All raters repeated the on-screen assessment process after 4 weeks. Time taken for intraoral scanning and on-screen assessment was recorded. Multilevel logistic regression was used to estimate the tooth surface level agreement between visual examination and on-screen assessment while accounting for the variability amongst the examiners and clustering of the dental caries data. Scatterplots were used to visualize the person level method agreement, and the Intraclass Correlation Coefficient (ICC) was used to calculate method agreement and examiner reliability. All analyses were undertaken at the initial (ICDAS&gt;1), moderate (ICDAS&gt;3), and extensive disease (ICDAS&gt;5) thresholds.\nConclusion: The findings indicate on-screen assessment of 3D models generated using intraoral scanners is a feasible substitute for visual examination using ICDAS for dental caries data collection epidemiological research involving children."
+  },
+  {
+    "objectID": "publications/large_quadratic.html",
+    "href": "publications/large_quadratic.html",
+    "title": "Numerical evaluation of methods approximating the distribution of a large quadratic form in normal variables",
+    "section": "",
+    "text": "Quadratic forms of Gaussian variables occur in a wide range of applications in statistics. They can be expressed as a linear combination of chi-squareds. The coefficients in the linear combination are the eigenvalues \\lambda_{1},...,\\lambda_n of \\Sigma A, where A is the matrix representing the quadratic form and \\Sigma is the covariance matrix of the Gaussians. The previous literature mostly deals with approximations for small quadratic forms (n&lt;10) and moderate p-values (p&gt;10^{-2}). Motivated by genetic applications, moderate to large quadratic forms (300&lt;n&lt;12,000) and small to very small p-values (p&lt;10^{-4}) are studied. Existing methods are compared under these settings and a leading-eigenvalue approximation, which only takes the largest k eigenvalues, is shown to have the computational advantage without any important loss in accuracy. For time complexity, a leading-eigenvalue approximation reduces the computational complexity from O(n^3) to O(n^2k) on extracting eigenvalues and avoids speed problems with computing the sum of n terms. For accuracy, the existing methods have some limits on calculating small p-values under large quadratic forms. Moment methods are inaccurate for very small p-values, and Farebrother’s method is not usable if the minimum eigenvalue is much smaller than others. Davies’s method is usable for p-values down to machine epsilon. The saddlepoint approximation is proved to have bounded relative error for any A and \\Sigma in the extreme right tail, so it is usable for arbitrarily small p-values."
+  },
+  {
+    "objectID": "publications/optimal_design_based.html",
+    "href": "publications/optimal_design_based.html",
+    "title": "Optimal sampling for design‐based estimators of regression models",
+    "section": "",
+    "text": "Two-phase designs measure variables of interest on a subcohort where the outcome and covariates are readily available or cheap to collect on all individuals in the cohort. Given limited resource availability, it is of interest to find an optimal design that includes more informative individuals in the final sample. We explore the optimal designs and efficiencies for analyses by design-based estimators. Generalized raking is an efficient class of design-based estimators, and they improve on the inverse-probability weighted (IPW) estimator by adjusting weights based on the auxiliary information. We derive a closed-form solution of the optimal design for estimating regression coefficients from generalized raking estimators. We compare it with the optimal design for analysis via the IPW estimator and other two-phase designs in measurement-error settings. We consider general two-phase designs where the outcome variable and variables of interest can be continuous or discrete. Our results show that the optimal designs for analyses by the two classes of design-based estimators can be very different. The optimal design for analysis via the IPW estimator is optimal for IPW estimation and typically gives near-optimal efficiency for generalized raking estimation, though we show there is potential improvement in some settings."
+  },
+  {
+    "objectID": "publications/pcori_multiwave.html",
+    "href": "publications/pcori_multiwave.html",
+    "title": "Multiwave validation sampling for error-prone electronic health records",
+    "section": "",
+    "text": "Electronic health record (EHR) data are increasingly used for biomedical research, but these data have recognized data quality challenges. Data validation is necessary to use EHR data with confidence, but limited resources typically make complete data validation impossible. Using EHR data, we illustrate prospective, multiwave, two-phase validation sampling to estimate the association between maternal weight gain during pregnancy and the risks of her child developing obesity or asthma. The optimal validation sampling design depends on the unknown efficient influence functions of regression coefficients of interest. In the first wave of our multiwave validation design, we estimate the influence function using the unvalidated (phase 1) data to determine our validation sample; then in subsequent waves, we re-estimate the influence function using validated (phase 2) data and update our sampling. For efficiency, estimation combines obesity and asthma sampling frames while calibrating sampling weights using generalized raking. We validated 996 of 10,335 mother-child EHR dyads in six sampling waves. Estimated associations between childhood obesity/asthma and maternal weight gain, as well as other covariates, are compared to naïve estimates that only use unvalidated data. In some cases, estimates markedly differ, underscoring the importance of efficient validation sampling to obtain accurate estimates incorporating validated data."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Tong Chen 陈通",
+    "section": "",
+    "text": "Hi/Kia Ora/你好!  I’m a postdoctoral biostatistician at the Clinical Epidemiology & Biostatistics Unit, Murdoch Children’s Research Institute, working under the supervision of Professor Margarita Moreno-Betancur. My primary research focus is on developing and evaluating model-free causal machine learning methods.\nI earned my PhD in Statistics from the University of Auckland under the supervision of Professor Thomas Lumley, where I developed strategies to choose the best possible subsample to gather information in medical research more efficiently. This approach is being applied in studies of electronic health records and HIV research studies in developing countries. In that time, I was also the main developer of iNZight Lite project."
+  },
+  {
+    "objectID": "publications/index.html#preprints",
+    "href": "publications/index.html#preprints",
+    "title": "Publications",
+    "section": "",
+    "text": "{{&lt; listing   contents: .   template: pubs.ejs   sort: \"date desc\"   categories: true   sort-ui: [date, title, author]   filter-ui: [date, title, author, details]   date-format: \"YYYY\"   page-size: 50   filter: \"status=preprint\" &gt;}}"
+  },
+  {
+    "objectID": "publications/index.html#published-papers",
+    "href": "publications/index.html#published-papers",
+    "title": "Publications",
+    "section": "",
+    "text": "{{&lt; listing   contents: .   template: pubs.ejs   sort: \"date desc\"   categories: true   sort-ui: [date, title, author]   filter-ui: [date, title, author, details]   date-format: \"YYYY\"   page-size: 50   filter: \"status=published\" &gt;}}"
+  }
+]
