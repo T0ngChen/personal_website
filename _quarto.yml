@@ -1,0 +1,46 @@
+project:
+  type: website
+  render:
+    - "*.qmd"
+    - "*.md"
+
+website:
+  title: "Tong Chen"
+  site-url: "https://mariecurie.com"
+  navbar:
+    background: "#EEEEEE"
+    left:
+#      - href: blog/index.qmd
+#        text: Blog
+      - href: publications/index.qmd
+        text: Publications
+      - href: software/index.qmd
+        text: Software
+      - href: talks/index.qmd
+        text: Seminars
+#      - href: teaching/index.qmd
+#        text: Teaching
+      - href: about/index.qmd
+        text: About
+  page-footer:
+    left: "© 2022-2025, Tong Chen"
+    right:
+      - icon: github
+        href: https://github.com/T0ngChen
+      - icon: twitter
+        href: https://twitter.com/cttc101
+    background: "#EEEEEE"
+
+date-format: "D MMMM YYYY"
+
+format:
+  html:
+    theme: zephyr
+    css: styles.css
+    toc: true
+    html-math-method: katex
+    include-in-header:
+      file: header.html
+
+execute:
+  freeze: auto

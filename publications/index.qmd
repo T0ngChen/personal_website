@@ -1,0 +1,17 @@
+---
+pagetitle: "Tong Chen - Publications"
+listing:
+  contents: .
+  template: pubs.ejs
+  sort: "date desc"
+  categories: true
+  sort-ui: [date, title, author]
+  filter-ui: [date, title, author, details]
+  date-format: "YYYY"
+  page-size: 50
+sidebar: true
+page-layout: full
+title-block-banner: false
+---
+
+# Publications

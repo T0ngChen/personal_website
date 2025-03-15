@@ -1,0 +1,10 @@
+_site/*
+_freeze/*
+*_cache/
+*_files/
+
+/.quarto/
+/_site/
+.Rproj.user
+
+/_*.local
