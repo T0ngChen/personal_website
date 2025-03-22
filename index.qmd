@@ -14,6 +14,8 @@ about:
       href: https://github.com/T0ngChen
     - text: "{{< iconify fa linkedin >}}"
       href: https://www.linkedin.com/in/tong-chen-354937148/
+    - text: "{{< iconify fa6-brands:bluesky >}}"
+      href: https://bsky.app/profile/cttc101.bsky.social
 ---
 
 <div class="about-link-text">

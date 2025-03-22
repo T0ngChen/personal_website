@@ -24,8 +24,8 @@
   {
     "listing": "/publications/index.html",
     "items": [
-      "/publications/medRCT.html",
       "/publications/IMIH-ohrqol.html",
+      "/publications/medRCT.html",
       "/publications/RCT_protocol_hao.html",
       "/publications/automate_vs_VE.html",
       "/publications/IMIH.html",

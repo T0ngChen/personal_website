@@ -27,8 +27,8 @@ website:
     right:
       - icon: github
         href: https://github.com/T0ngChen
-      - icon: twitter
-        href: https://twitter.com/cttc101
+      - icon: bluesky
+        href: https://bsky.app/profile/cttc101.bsky.social
     background: "#EEEEEE"
 
 date-format: "D MMMM YYYY"
