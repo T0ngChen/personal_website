@@ -10,5 +10,5 @@ venue: Statistics and Data Science Seminar, University of Illinois Chicago (Onli
 
 In regression models fitted to data from complex survey designs, sampling weights often incorporate non-essential variation, inflating variance estimates. Stabilised weights mitigate this issue by adjusting sampling weights to account for variation explained by covariates. We evaluate the performance of optimal stabilised weights and propose combining the stabilised weights estimator with generalised raking, a class of efficient design-based estimators. This combination improves efficiency by reducing unnecessary weight variation and leveraging information from auxiliary variables. We show this combination can be implemented using the standard statistical package that handles two-phase samples and generalised raking. Simulation studies demonstrate that the proposed estimator enhances precision under realistic two-phase designs, though efficiency gains may be limited in highly informative designs.
 
-
+link: <https://mscs.uic.edu/events/statistics-and-data-science-seminar-generalised-raking-and-stabilised-weights-for-regression-modelling-in-two-phase-samples-by-tong-chen/>
 
