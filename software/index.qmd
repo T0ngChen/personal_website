@@ -6,6 +6,6 @@
 <strong>iNZight Lite</strong></a>: A statistics software for students and learners to explore, visualise, and analyse data.</span> </div>
 
 <div class="package">
-<img src="medRCT.png" alt="medRCT logo">  
+<img src="medRCT.png" alt="medRCT logo" style="width: 50px; height: 57.73px;">  
 <span>
 <a href="https://t0ngchen.github.io/medRCT/" target="_blank"><strong>medRCT</strong></a>: Causal mediation analysis estimating interventional effects mapped to a target trial.</span></div>
