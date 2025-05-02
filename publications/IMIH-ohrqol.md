@@ -1,9 +1,10 @@
 ---
 author: Stephanie Shields, <b>Tong Chen</b>, Felicity Crombie, David J. Manton, Mihiri Silva
-date: 2025-03-16
+date: 2025-04-12
 title: "Causal effect of molar incisor hypomineralisation on oral health-related quality-of-life of Australian children 7 to 16 years-of-age"
-details: <em>European Archives of Paediatric Dentistry</em>, Accept
+details: <em>European Archives of Paediatric Dentistry</em>, 
 categories: Applications
+doi: https://doi.org/10.1007/s40368-025-01028-3
 ---
 
 

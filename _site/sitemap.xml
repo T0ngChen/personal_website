@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://mariecurie.com/publications/IMIH-ohrqol.html</loc>
-    <lastmod>2025-03-22T07:20:01.788Z</lastmod>
+    <lastmod>2025-04-12T13:31:29.351Z</lastmod>
   </url>
   <url>
     <loc>https://mariecurie.com/publications/thesis.html</loc>
@@ -126,10 +126,14 @@
   </url>
   <url>
     <loc>https://mariecurie.com/publications/medRCT.html</loc>
-    <lastmod>2025-03-15T12:30:35.136Z</lastmod>
+    <lastmod>2025-05-02T13:00:06.593Z</lastmod>
   </url>
   <url>
     <loc>https://tongchen.netlify.app/index.html</loc>
     <lastmod>2025-03-22T03:11:57.552Z</lastmod>
+  </url>
+  <url>
+    <loc>https://mariecurie.com/publications/CML-mediation.html</loc>
+    <lastmod>2025-05-02T13:05:43.495Z</lastmod>
   </url>
 </urlset>

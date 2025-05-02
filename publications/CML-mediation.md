@@ -1,0 +1,10 @@
+---
+author: <b>Tong Chen</b>, Stijn Vansteelandt, David Burgner, Toby Mansell, Margarita Moreno-Betancur
+date: 2025-04-22
+title: "Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial"
+details: <em>arXiv</em>
+arxiv: arXiv:2504.15834
+categories: Methodology
+---
+
+Causal mediation analysis examines causal pathways linking exposures to disease. The estimation of interventional effects, which are mediation estimands that overcome certain identifiability problems of natural effects, has been advanced through causal machine learning methods, particularly for high-dimensional mediators. Recently, it has been proposed interventional effects can be defined in each study by mapping to a target trial assessing specific hypothetical mediator interventions. This provides an appealing framework to directly address real-world research questions about the extent to which such interventions might mitigate an increased disease risk in the exposed. However, existing estimators for interventional effects mapped to a target trial rely on singly-robust parametric approaches, limiting their applicability in high-dimensional settings. Building upon recent developments in causal machine learning for interventional effects, we address this gap by developing causal machine learning estimators for three interventional effect estimands, defined by target trials assessing hypothetical interventions inducing distinct shifts in joint mediator distributions. These estimands are motivated by a case study within the Longitudinal Study of Australian Children, used for illustration, which assessed how intervening on high inflammatory burden and other non-inflammatory adverse metabolomic markers might mitigate the adverse causal effect of overweight or obesity on high blood pressure in adolescence. We develop one-step and (partial) targeted minimum loss-based estimators based on efficient influence functions of those estimands, demonstrating they are root-n consistent, efficient, and multiply robust under certain conditions.

@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Tong Chen, Stijn Vansteelandt, David Burgner, Toby Mansell, Margarita Moreno-Betancur">
+<meta name="dcterms.date" content="2025-04-22">
 
-<title>Tong Chen - Publications – Tong Chen</title>
+<title>Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial – Tong Chen</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,8 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="../site_libs/quarto-search/fuse.min.js"></script>
 <script src="../site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="../">
-<script src="../site_libs/quarto-listing/list.min.js"></script>
-<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="../site_libs/quarto-html/quarto.js"></script>
 <script src="../site_libs/quarto-html/popper.min.js"></script>
 <script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -68,57 +68,12 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-project','listing-website','listing-date-format','listing-format','listing-execute','listing-language','listing-sidebar','listing-author-title','listing-author','listing-date','listing-title','listing-details','listing-arxiv','listing-categories','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count','listing-doi','listing-thesis',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-details"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
 <link href="https://fonts.googleapis.com/css?family=Fira+Sans|Merriweather" rel="stylesheet">
 
 <script src="https://kit.fontawesome.com/0fba9333d8.js" crossorigin="anonymous"></script>
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
 
-  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-  <script>document.addEventListener("DOMContentLoaded", function () {
- var mathElements = document.getElementsByClassName("math");
- var macros = [];
- for (var i = 0; i < mathElements.length; i++) {
-  var texText = mathElements[i].firstChild;
-  if (mathElements[i].tagName == "SPAN") {
-   katex.render(texText.data, mathElements[i], {
-    displayMode: mathElements[i].classList.contains('display'),
-    throwOnError: false,
-    macros: macros,
-    fleqn: false
-   });
-}}});
-  </script>
-  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css">
 
 <link rel="stylesheet" href="../styles.css">
 </head>
@@ -141,7 +96,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="../publications/index.html" aria-current="page"> 
+    <a class="nav-link" href="../publications/index.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
@@ -164,404 +119,79 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#publications" id="toc-publications" class="nav-link active" data-scroll-target="#publications">Publications</a></li>
-  </ul>
-</nav>
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(14)</span></div><div class="category" data-category="QXBwbGljYXRpb25z">Applications <span class="quarto-category-count">(6)</span></div><div class="category" data-category="TWV0aG9kb2xvZ3k=">Methodology <span class="quarto-category-count">(8)</span></div></div></div>
-<!-- main -->
-<main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
-
-
-
-
-<section id="publications" class="level1">
-<h1>Publications</h1>
-
-
-
-</section>
-
-<div class="quarto-listing quarto-listing-container-custom" id="listing-listing">
-<div class="listing-actions-group">
-   <div class="input-group input-group-sm quarto-listing-sort">
-     <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
-     <select id="listing-listing-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-listing'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
-       <option value="" disabled="" selected="" hidden="">Order By</option>
-       <option value="index" data-direction="asc">Default</option>
-         <option value="listing-date-sort" data-direction="asc">
-          Date - Oldest
-        </option>
-         <option value="listing-date-sort" data-direction="desc">
-          Date - Newest
-        </option>
-         <option value="listing-title" data-direction="asc">
-          Title
-        </option>
-         <option value="listing-author" data-direction="asc">
-          Author
-        </option>
-     </select>
-  </div>
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
-</div>
-<style>
-  li {
-    margin: 10px 0;
-  }
-</style>
-<ol class="list" reversed="">
-  
-    <li data-index="0" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1745244000000" data-listing-file-modified-sort="1746191143495" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="229">
-      <a href="../publications/CML-mediation.html">
-        <span class="listing-author"><b>Tong Chen</b>, Stijn Vansteelandt, David Burgner, Toby Mansell, Margarita Moreno-Betancur</span>
-        (<span class="listing-date">2025</span>)
-        <span class="listing-title">Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial</span>.
-        
-          <span class="listing-details"><em>arXiv</em></span>.
-        
-      </a>
-      
-      
-      
-      
-      <a href="https://arxiv.org/abs/arXiv:2504.15834" class="badge badge-small badge-red">arXiv</a>
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="1" data-categories="QXBwbGljYXRpb25z" data-listing-date-sort="1744380000000" data-listing-file-modified-sort="1744464689351" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="273">
-      <a href="../publications/IMIH-ohrqol.html">
-        <span class="listing-author">Stephanie Shields, <b>Tong Chen</b>, Felicity Crombie, David J. Manton, Mihiri Silva</span>
-        (<span class="listing-date">2025</span>)
-        <span class="listing-title">Causal effect of molar incisor hypomineralisation on oral health-related quality-of-life of Australian children 7 to 16 years-of-age</span>.
-        
-          <span class="listing-details"><em>European Archives of Paediatric Dentistry</em>,</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/https://doi.org/10.1007/s40368-025-01028-3" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="2" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1741784400000" data-listing-file-modified-sort="1746190806593" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="84">
-      <a href="../publications/medRCT.html">
-        <span class="listing-author"><b>Tong Chen</b>, S. Ghazaleh Dashti, Margarita Moreno-Betancur</span>
-        (<span class="listing-date">2025</span>)
-        <span class="listing-title">medRCT: Causal mediation analysis estimating interventional effects mapped to a target trial in R</span>.
-        
-          <span class="listing-details"><em>The Journal of Open Source Software</em>, under review</span>.
-        
-      </a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="3" data-categories="QXBwbGljYXRpb25z" data-listing-date-sort="1735650000000" data-listing-file-modified-sort="1742041835134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="82">
-      <a href="../publications/RCT_protocol_hao.html">
-        <span class="listing-author">Shuobo Fang, Zhengjie Dong, Wei Zhang, <b>Tong Chen</b>, Wanqi Lv, Chenyang Zhang, Si Chen, Keyi Hao</span>
-        (<span class="listing-date">2025</span>)
-        <span class="listing-title">The effect of porcine collagen matrix versus rotated pedicle palatal connective tissue flap on the soft tissue closure after the immediate posterior implantation: study protocol for a randomized controlled trial</span>.
-        
-          <span class="listing-details"><em>BMJ Open</em></span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.1136/bmjopen-2024-090302" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="4" data-categories="QXBwbGljYXRpb25z" data-listing-date-sort="1727704800000" data-listing-file-modified-sort="1742041835135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="241">
-      <a href="../publications/automate_vs_VE.html">
-        <span class="listing-author">Bree Jones, <b>Tong Chen</b>, Stavroula Michou, Nicky Kilpatrick, David P. Burgner, Christoph Vannahme, Mihiri Silva</span>
-        (<span class="listing-date">2024</span>)
-        <span class="listing-title">Diagnostic agreement between visual examination and an automated scanner system with fluorescence for detecting and classifying occlusal carious lesions in primary teeth</span>.
-        
-          <span class="listing-details"><em>Journal of Dentistry</em>, 149</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.1016/j.jdent.2024.105279" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="5" data-categories="QXBwbGljYXRpb25z" data-listing-date-sort="1706706000000" data-listing-file-modified-sort="1742041835134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="188">
-      <a href="../publications/IMIH.html">
-        <span class="listing-author">Stephanie Shields, <b>Tong Chen</b>, Felicity Crombie, David J. Manton, Mihiri Silva</span>
-        (<span class="listing-date">2024</span>)
-        <span class="listing-title">The impact of molar incisor hypomineralisation on children and adolescents: A narrative review</span>.
-        
-          <span class="listing-details"><em>Healthcare</em>, 12, 370</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.3390/healthcare12030370" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="6" data-categories="QXBwbGljYXRpb25z" data-listing-date-sort="1706706000000" data-listing-file-modified-sort="1742041835136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="58">
-      <a href="../publications/pcori_multiwave - obese.html">
-        <span class="listing-author">Nadia Markie Sneed, William Heerman, Pamela Shaw, Kyunghee Han, <b>Tong Chen</b>, Aihua Bian, Shannon Pugh, Stephany N Duda, Thomas Lumley, William J Heerman, Bryan E Shepherd</span>
-        (<span class="listing-date">2024</span>)
-        <span class="listing-title">Associations Between Gestational Weight Gain, Gestational Diabetes, and Childhood Obesity Incidence</span>.
-        
-          <span class="listing-details"><em>Maternal and Child Health Journal</em> 28, 372–381</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.1007/s10995-023-03853-8" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="7" data-categories="QXBwbGljYXRpb25z" data-listing-date-sort="1698757200000" data-listing-file-modified-sort="1742041835134" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="404">
-      <a href="../publications/Iagree.html">
-        <span class="listing-author">Bree Jones, Stavroula Michou, <b>Tong Chen</b>, Margarita Moreno-Betancur, Nicky Kilpatrick, David P. Burgner, Christoph Vannahme, Mihiri Silva</span>
-        (<span class="listing-date">2023</span>)
-        <span class="listing-title">Caries Detection in Primary Teeth Using Intraoral Scanners Featuring Fluorescence: Protocol for a Diagnostic Agreement Study</span>.
-        
-          <span class="listing-details"><em>JMIR Research Protocols</em>, 12:e51578</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.2196/51578" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="8" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1694527200000" data-listing-file-modified-sort="1742041835137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="200">
-      <a href="../publications/pcori_multiwave.html">
-        <span class="listing-author">Bryan E Shepherd, Kyunghee Han, <b>Tong Chen</b>, Aihua Bian, Shannon Pugh, Stephany N Duda, Thomas Lumley, William J Heerman, Pamela A Shaw</span>
-        (<span class="listing-date">2023</span>)
-        <span class="listing-title">Multiwave validation sampling for error-prone electronic health records</span>.
-        
-          <span class="listing-details"><em>Biometrics</em>, 79, 2649–2663</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.1111/biom.13713" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="9" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1661954400000" data-listing-file-modified-sort="1742041835137" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="259">
-      <a href="../publications/thesis.html">
-        <span class="listing-author"><b>Tong Chen</b></span>
-        (<span class="listing-date">2022</span>)
-        <span class="listing-title">Optimal sampling for design-based estimators of regression models in two-phase designs</span>.
-        
-          <span class="listing-details"><em>PhD Thesis-University of Auckland</em></span>.
-        
-      </a>
-      
-      
-      
-      
-      
-      <a href="https://researchspace.auckland.ac.nz/handle/2292/61511" class="badge badge-small badge-green">THESIS</a>
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="10" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1649944800000" data-listing-file-modified-sort="1742041835136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="195">
-      <a href="../publications/optimal_design_based.html">
-        <span class="listing-author"><b>Tong Chen</b>, Thomas Lumley</span>
-        (<span class="listing-date">2022</span>)
-        <span class="listing-title">Optimal sampling for design‐based estimators of regression models</span>.
-        
-          <span class="listing-details"><em>Statistics in Medicine</em>, 41, 1482-1497</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.1002/sim.9300" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="11" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1633010400000" data-listing-file-modified-sort="1742041835135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="190">
-      <a href="../publications/choosing_good_subsample.html">
-        <span class="listing-author">Thomas Lumley, <b>Tong Chen</b></span>
-        (<span class="listing-date">2021</span>)
-        <span class="listing-title">Choosing good subsamples for regression modelling</span>.
-        
-          <span class="listing-details"><em>Paper presented at 11th International Francophone Conference on Surveys</em></span>.
-        
-      </a>
-      
-      
-      
-      
-      <a href="https://arxiv.org/abs/arXiv:2203.10701" class="badge badge-small badge-red">arXiv</a>
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="12" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1609246800000" data-listing-file-modified-sort="1742041835136" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="175">
-      <a href="../publications/multiwave.html">
-        <span class="listing-author"><b>Tong Chen</b>, Thomas Lumley</span>
-        (<span class="listing-date">2020</span>)
-        <span class="listing-title">Optimal multiwave sampling for regression modeling in two‐phase designs</span>.
-        
-          <span class="listing-details"><em>Statistics in Medicine</em>, 39, 4912-4921</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.1002/sim.8760" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-    <li data-index="13" data-categories="TWV0aG9kb2xvZ3k=" data-listing-date-sort="1572526800000" data-listing-file-modified-sort="1742041835135" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="226">
-      <a href="../publications/large_quadratic.html">
-        <span class="listing-author"><b>Tong Chen</b>, Thomas Lumley</span>
-        (<span class="listing-date">2019</span>)
-        <span class="listing-title">Numerical evaluation of methods approximating the distribution of a large quadratic form in normal variables</span>.
-        
-          <span class="listing-details"><em>Computational Statistics &amp; Data Analysis</em>, 139, 75-81</span>.
-        
-      </a>
-      
-      <a href="https://doi.org/10.1016/j.csda.2019.05.002" class="badge badge-small badge-blue">DOI</a>
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-    </li>
-  
-</ol>
+<!-- main -->
+<main class="content" id="quarto-document-content">
 
-<div class="listing-no-matching d-none">
-No matching items
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">Causal machine learning for high-dimensional mediation analysis using interventional effects mapped to a target trial</h1>
+  <div class="quarto-categories">
+    <div class="quarto-category">Methodology</div>
+  </div>
+  </div>
+
+
+
+<div class="quarto-title-meta">
+
+    <div>
+    <div class="quarto-title-meta-heading">Authors</div>
+    <div class="quarto-title-meta-contents">
+            <p><b>Tong Chen</b>, Stijn Vansteelandt, David Burgner, Toby Mansell, Margarita Moreno-Betancur 
+      </p>
+          </div>
+  </div>
+  
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">22 April 2025</p>
+    </div>
+  </div>
+  
+    <div>
+    <div class="quarto-title-meta-heading">Publication details</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">
+        <em>arXiv</em>
+      </p>
+    </div>
+  </div>
+  
+  <div>
+    <div class="quarto-title-meta-heading">Links</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date" style="color: #fff !important;">
+                                    <a href="https://arxiv.org/abs/arXiv:2504.15834" class="badge badge badge-red">arXiv</a>
+                        
+      
+      </p>
+    </div>
+
+  </div>
 </div>
-</div></main> <!-- /main -->
+
+
+
+
+
+
+
+<p>&nbsp;</p>
+</header>
+
+
+<p>Causal mediation analysis examines causal pathways linking exposures to disease. The estimation of interventional effects, which are mediation estimands that overcome certain identifiability problems of natural effects, has been advanced through causal machine learning methods, particularly for high-dimensional mediators. Recently, it has been proposed interventional effects can be defined in each study by mapping to a target trial assessing specific hypothetical mediator interventions. This provides an appealing framework to directly address real-world research questions about the extent to which such interventions might mitigate an increased disease risk in the exposed. However, existing estimators for interventional effects mapped to a target trial rely on singly-robust parametric approaches, limiting their applicability in high-dimensional settings. Building upon recent developments in causal machine learning for interventional effects, we address this gap by developing causal machine learning estimators for three interventional effect estimands, defined by target trials assessing hypothetical interventions inducing distinct shifts in joint mediator distributions. These estimands are motivated by a case study within the Longitudinal Study of Australian Children, used for illustration, which assessed how intervening on high inflammatory burden and other non-inflammatory adverse metabolomic markers might mitigate the adverse causal effect of overweight or obesity on high blood pressure in adolescence. We develop one-step and (partial) targeted minimum loss-based estimators based on efficient influence functions of those estimands, demonstrating they are root-n consistent, efficient, and multiply robust under certain conditions.</p>
+
+
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
