@@ -3,7 +3,6 @@ author: Bree Jones, Mathias Lambach, <b>Tong Chen</b>, Stavroula Michou, Nicky K
 date: 2025-06-10
 title: "Dental caries detection in children using intraoral scans and deep learning"
 details: <em>Journal of Dentistry</em> 
-doi: 
 categories: Applications
 ---
 
