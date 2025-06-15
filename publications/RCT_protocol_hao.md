@@ -2,7 +2,7 @@
 author: Shuobo Fang, Zhengjie Dong, Wei Zhang, <b>Tong Chen</b>, Wanqi Lv, Chenyang Zhang, Si Chen, Keyi Hao
 date: 2025-01-01
 title: "The effect of porcine collagen matrix versus rotated pedicle palatal connective tissue flap on the soft tissue closure after the immediate posterior implantation: study protocol for a randomized controlled trial"
-details: <em>BMJ Open</em>
+details: <em>BMJ Open</em>, 15, e090302
 categories: Applications
 doi: 10.1136/bmjopen-2024-090302
 ---

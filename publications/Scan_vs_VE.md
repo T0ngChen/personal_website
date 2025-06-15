@@ -2,7 +2,7 @@
 author: Bree Jones, <b>Tong Chen</b>, Stavroula Michou, Nicky Kilpatrick, David P. Burgner, Christoph Vannahme, Mihiri Silva
 date: 2025-05-24
 title: "Digital Caries Detection in Children using Intraoral Scanners: A Diagnostic Agreement Study"
-details: <em>JMIR Public Health and Surveillance</em>  under review
+details: <em>JMIR Public Health and Surveillance</em>, under review
 doi: 10.2196/preprints.78023
 categories: Applications
 ---

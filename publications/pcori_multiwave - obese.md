@@ -2,7 +2,7 @@
 author: Nadia Markie Sneed, William Heerman, Pamela Shaw, Kyunghee Han, <b>Tong Chen</b>, Aihua Bian, Shannon Pugh, Stephany N Duda, Thomas Lumley, William J Heerman, Bryan E Shepherd
 date: 2024-02-01
 title: "Associations Between Gestational Weight Gain, Gestational Diabetes, and Childhood Obesity Incidence"
-details: <em>Maternal and Child Health Journal</em> 28, 372–381
+details: <em>Maternal and Child Health Journal</em>, 28, 372–381
 doi: 10.1007/s10995-023-03853-8
 categories: Applications
 ---
