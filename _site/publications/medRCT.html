@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Tong Chen, S. Ghazaleh Dashti, Margarita Moreno-Betancur">
-<meta name="dcterms.date" content="2025-03-13">
+<meta name="dcterms.date" content="2025-06-27">
 
 <title>medRCT: Causal mediation analysis estimating interventional effects mapped to a target trial in R – Tong Chen</title>
 <style>
@@ -122,8 +122,14 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#summary" id="toc-summary" class="nav-link active" data-scroll-target="#summary">Summary</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -151,7 +157,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">13 March 2025</p>
+      <p class="date">27 June 2025</p>
     </div>
   </div>
   
@@ -159,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-title-meta-heading">Publication details</div>
     <div class="quarto-title-meta-contents">
       <p class="date">
-        <em>The Journal of Open Source Software</em>, under review
+        <em>Journal of Open Source Software</em>, 10(110), 8063
       </p>
     </div>
   </div>
@@ -168,6 +174,7 @@ ul.task-list li input[type="checkbox"] {
     <div class="quarto-title-meta-heading">Links</div>
     <div class="quarto-title-meta-contents">
       <p class="date" style="color: #fff !important;">
+            <a href="https://doi.org/10.21105/joss.08063" class="badge badge badge-blue">DOI</a>
                                                 
       
       </p>
@@ -186,8 +193,12 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
+<section id="summary" class="level1">
+<h1>Summary</h1>
+<p>The R package <code>medRCT</code> for causal mediation analysis supports the estimation of interventional effects (VanderWeele, Vansteelandt, and Robins 2014), specifically interventional effects that are defined such that they map explicitly to a “target trial” (Hernán and Robins 2016), as recently proposed by Moreno-Betancur et al.&nbsp;(2021). In the target trial, the treatment strategies are specified to reflect hypothetical interventions targeting and thus shifting the joint distribution of the mediators. <code>medRCT</code> can accommodate any number of potentially correlated mediators, including mediators that are not of primary interest but that are intermediate (exposure-induced) mediator-outcome confounders.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

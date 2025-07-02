@@ -1,6 +1,6 @@
 ---
 author: <b>Tong Chen</b>, S. Ghazaleh Dashti, Margarita Moreno-Betancur
-date: 2025-03-13
+date: 2025-06-27
 title: "medRCT: Causal mediation analysis estimating interventional effects mapped to a target trial in R"
 details: <em>Journal of Open Source Software</em>, 10(110), 8063
 doi: 10.21105/joss.08063
