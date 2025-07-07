@@ -53,7 +53,7 @@ title: "About"
 
 ## Service
  
- * Reviewer, Statistics in Medicine, Statistical Methods in Medical Research, Epidemiology, Paediatric and Perinatal Epidemiology, International Journal of Paediatric Dentistry 
+ * Reviewer, Statistics in Medicine, Statistical Methods in Medical Research, Epidemiology, Paediatric and Perinatal Epidemiology, International Journal of Paediatric Dentistry, Journal of Child Health Care
  * Coordinator, The Victorian Centre for Biostatistics (ViCBiostat) Seminar (2025 -)
  * Coordinator, Data Science Journal Club at Murdoch Children's Research Institute (2023-2024)  
   
