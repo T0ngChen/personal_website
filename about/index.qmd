@@ -4,8 +4,7 @@ title: "About"
 
 
 ## Work Experience
- * From September 2022: Biostatistician, Clinical Epidemiology and Biostatistics Unit (CEBU), Murdoch Children's Research Institute  
-  Honorary Research Fellow, University of Melbourne  
+ * From September 2022: Biostatistician, Clinical Epidemiology and Biostatistics Unit (CEBU), University of Melbourne & Murdoch Children's Research Institute    
  * 2021–2022: Statistical Consultant, Statistical Consulting Centre, University of Auckland  
  * 2016–2021: Teaching / Research Assistant, University of Auckland 
 
@@ -38,6 +37,10 @@ title: "About"
 
 
 ## Awards
+ * <div style="display: flex; justify-content: space-between;">
+    <div style="text-align: left;"></div>
+    <div style="text-align: right;">**International Biometric Society**</div>
+</div>
 
  * <div style="display: flex; justify-content: space-between;">
     <div style="text-align: left;">Best Paper Award in Biometrics 2023</div>
@@ -53,7 +56,7 @@ title: "About"
 
 ## Service
  
- * Reviewer, Statistics in Medicine, Statistical Methods in Medical Research, Epidemiology, Paediatric and Perinatal Epidemiology, International Journal of Paediatric Dentistry, Journal of Child Health Care
+ * Reviewer, Statistics in Medicine, Statistical Methods in Medical Research, Epidemiology, Journal of Clinical Epidemiology, Journal of Open Source Software, Paediatric and Perinatal Epidemiology, International Journal of Paediatric Dentistry, Journal of Child Health Care
  * Coordinator, The Victorian Centre for Biostatistics (ViCBiostat) Seminar (2025 -)
  * Coordinator, Data Science Journal Club at Murdoch Children's Research Institute (2023-2024)  
   
