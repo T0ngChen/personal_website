@@ -37,10 +37,6 @@ title: "About"
 
 
 ## Awards
- * <div style="display: flex; justify-content: space-between;">
-    <div style="text-align: left;"></div>
-    <div style="text-align: right;">**International Biometric Society**</div>
-</div>
 
  * <div style="display: flex; justify-content: space-between;">
     <div style="text-align: left;">Best Paper Award in Biometrics 2023</div>
